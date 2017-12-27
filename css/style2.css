@@ -154,6 +154,69 @@ box-shadow: 0px 2px 10px 0px rgba(0,0,0,0.75);
 }
 
 
+.menupegajoso{
+}
+.menupegajoso1{
+	height: 100px;
+	transition: all 1s ease;
+}
+.menupegajoso2{
+	height: 60px;
+	transition: all 1s ease;
+}
+.menu-fixed{
+	position: fixed;
+	z-index: 9999;
+	top: 0;
+	height: 60px;
+	transition: all 1s ease;
+	padding: 5px 0px 5px 0px;
+}
+.menupegajoso1 div a img{
+	transition: all 1s ease;
+	width: 200px;
+	height: 54px;
+}
+.menupegajoso2 div a img{
+	transition: all 1s ease;
+	width: 138px;
+	height: 37px;
+}
+.menu-fixed div a img{
+	transition: all 1s ease;
+	width: 138px;
+	height: 37px;
+}
+
+@media (max-width: 768px) {
+.menupegajoso1{
+	height: 60px;
+	transition: all 1s ease;
+
+}
+.menu-fixed{
+	position: fixed;
+	top: 0;
+	height: 60px;
+	width: 100%;
+	transition: all 1s ease;
+	padding: 0px 14px 0px 14px;
+}
+.menupegajoso1 div a img{
+	transition: all 1s ease;
+	width: 138px;
+	height: 37px;
+}
+.menu-fixed div a img{
+	transition: all 1s ease;
+	width: 138px;
+	height: 37px;
+}
+}
+
+
+
+
 /* Section */
 section{
 	/*background: blue;*/
