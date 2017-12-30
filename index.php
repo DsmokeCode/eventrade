@@ -178,7 +178,7 @@
 					</div>
 				</div>
 			</div>
-		</div>s
+		</div>
 	</section>
 <?php include('js.php'); ?>
 </body>
