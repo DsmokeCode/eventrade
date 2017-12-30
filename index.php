@@ -6,6 +6,7 @@
 	<!-- Navigation -->
 	<?php include('nav.php'); ?>
 
+
 	<!-- Header -->
 	<header class="jumbotron paral paralsec d-flex flex-column justify-content-center shadow-text">
 		<h1 class="text-center display-1 wow bounceInUp " data-wow-delay=".2s" style="font-family: AgencyFb;">EVENTOS</h1>
